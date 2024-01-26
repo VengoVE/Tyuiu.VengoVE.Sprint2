@@ -17,7 +17,7 @@ namespace Tyuiu.VengoVE.Sprint2.Task3.V19
             Console.Title = "Спринт #2 | Выполнил: Вэнго В. Э. | ИСПб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Оператор if – полная и короткая форма записи                      *");
+            Console.WriteLine("* Тема: Вложенные операторы if - else                                     *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #19                                                             *");
             Console.WriteLine("* Выполнил: Вэнго В. Э. | ИСПб-23-1                                       *");

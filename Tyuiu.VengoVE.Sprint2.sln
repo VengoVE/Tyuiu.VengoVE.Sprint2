@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VengoVE.Sprint2.Task3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VengoVE.Sprint2.Task3.V19.Test", "Tyuiu.VengoVE.Sprint2.Task3.V19.Test\Tyuiu.VengoVE.Sprint2.Task3.V19.Test.csproj", "{8F3D7E8F-C9FE-4344-B8D0-0ACDD08B742D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{BE8F7523-5128-4979-BA05-9EB191172CBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
